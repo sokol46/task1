@@ -53,8 +53,13 @@ h1 {
     padding: 20px;
     display: flex;
     flex-direction: column;
+    margin-bottom: 40px;
 }
 
 .row1 {
     width: 380px;
+}
+
+.button {
+    margin-top: 100px;
 }
