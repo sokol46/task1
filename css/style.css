@@ -3,9 +3,6 @@
     margin: 0;
 }
 
-body {
-    padding: 0 20px;
-}
 
 header {
     margin-bottom: 30px;
@@ -52,4 +49,12 @@ h1 {
     justify-content: space-between;
 } */
 
+.block2 {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
 
+.row1 {
+    width: 380px;
+}
