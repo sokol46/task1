@@ -62,4 +62,9 @@ h1 {
 
 .button {
     margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.page-footer {
+    padding-bottom: 20px;
 }
